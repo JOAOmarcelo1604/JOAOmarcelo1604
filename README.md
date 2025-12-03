@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Oi 👋, Eu sou João Marcelo</h2>
+  <h2>Oi 👋, Eu sou João Marcelo</h2>
   <p>
     <em>Graduado em Análise e Desenvolvimento de Sistemas | Desenvolvedor em Constante Evolução</em>
   </p>
@@ -24,8 +24,8 @@
 
 - 🔭 **Atualmente trabalhando em:** Projetos de Ecommerce e Gerenciamento de Clínicas, desenvolvendo meu próprio Framework e diversas APIs.
 - ☕ **Domínio Avançado:** Java e Spring Boot (Back-end robusto).
-- 🌱 **O Intermediario:** Angular.js, Node.js e TypeScript.
-- 👯 **Procurando colaborar em:** Projetos Open Source e aplicações Web Java e outros Projetos.
+- 🌱 **Nível Intermediário:** Angular, Node.js e TypeScript.
+- 👯 **Procurando colaborar em:** Projetos Open Source e aplicações Web Java.
 - ⚡ **Fato engraçado:** Entrei no mundo da programação porque gostava muito de games! 🎮
 
 <br />
@@ -49,6 +49,9 @@
     
     &nbsp;&nbsp;&nbsp;
     
+    <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> 
+    </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
     </a>
