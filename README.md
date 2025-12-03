@@ -1,13 +1,13 @@
 <div align="center">
-  <h2>Oi 👋, Eu sou João Marcelo</h2>
+<h2>Oi 👋, Eu sou João Marcelo</h2>
   <p>
-    <em>Estudante de Tecnologia | Desenvolvedor em Evolução</em>
+    <em>Graduado em Análise e Desenvolvimento de Sistemas | Desenvolvedor em Constante Evolução</em>
   </p>
   
   <p>
-    Sou um estudante dedicado e entusiasmado, apaixonado por inovação e tecnologia. 
-    Sempre busco estar atualizado e em constante aprendizado em busca de oportunidades 
-    para desenvolver minhas habilidades e conhecimentos.
+    Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, mas acredito que o aprendizado é contínuo. 
+    Apaixonado por inovação e tecnologia, sigo me dedicando para alcançar níveis cada vez mais 
+    avançados de conhecimento técnico e aprimorar minhas habilidades no desenvolvimento de software.
   </p>
 
   <a href="https://www.linkedin.com/in/joão-marcelo-1184a4249/">
