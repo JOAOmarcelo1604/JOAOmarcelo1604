@@ -89,9 +89,28 @@
 
   <br>
 
-  <h3>📊 Estatísticas</h3>
-  <div style="display: inline-block">
+<br />
+
+<h3>📊 Estatísticas & Dedicação</h3>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=joaomarcelo1604&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="joaomarcelo1604" />
+  </a>
+  
+  <br/><br/>
+
+  <p>
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcelo1604&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaomarcelo1604&show_icons=true&locale=en&layout=compact&theme=dracula"/>
-  </div>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaomarcelo1604&show_icons=true&locale=pt-br&layout=compact&theme=dracula"/>
+  </p>
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaomarcelo1604&theme=dracula&hide_border=true" alt="joaomarcelo1604" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=joaomarcelo1604&style=flat-square&label=Visualizacoes+do+Perfil&color=7957d5" alt="Contador de Visitas" />
+</div>
 </div>
