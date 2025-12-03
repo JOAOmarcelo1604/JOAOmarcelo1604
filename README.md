@@ -1,27 +1,68 @@
-<h1 align="center">Oi 👋, Eu sou Joao Marcelo</h1>
-<h3 align="center">Sou um estudante dedicado e entusiasmado, apaixonado por inovação e tecnologia, sempre buscando estar atualizado e em constante aprendizado em busca de oportunidades para desenvolver minhas habilidades e conhecimentos.</h3>
+<div align="center">
+  <h2>Oi 👋, Eu sou João Marcelo</h2>
+  <p>
+    <em>Estudante de Tecnologia | Desenvolvedor em Evolução</em>
+  </p>
+  
+  <p>
+    Sou um estudante dedicado e entusiasmado, apaixonado por inovação e tecnologia. 
+    Sempre busco estar atualizado e em constante aprendizado em busca de oportunidades 
+    para desenvolver minhas habilidades e conhecimentos.
+  </p>
 
-- 🔭 Sou desenvolvedor front-end. **tela-de-login**
+  <a href="https://www.linkedin.com/in/joão-marcelo-1184a4249/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:marcelooliveira004@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge">
+  </a>
+</div>
 
-- 🌱 Atualmente estou aprendendo **React.js, Node.js, Typescript**
+<br />
 
-- 👯 Tenho um perfil no linkedin! [https://www.linkedin.com/in/joão-marcelo-1184a4249/](https://www.linkedin.com/in/joão-marcelo-1184a4249/)
+### 🚀 Sobre Mim
 
-- 💬 Pode me perguntar sobre **HTML, CSS, JAVASCRIPT, C, REDES, SQL, EXCEL**
+- 🔭 **Atualmente trabalhando em:** Projetos de Portfólio e Login.
+- 🌱 **Aprendendo:** React.js, Node.js, TypeScript e Java (Spring Boot).
+- 👯 **Procurando colaborar em:** Projetos Open Source e aplicações Web.
+- ⚡ **Fato engraçado:** Entrei no mundo da programação porque gostava muito de games! 🎮
 
-- 📫 Pode me encontrar atraves **marcelooliveira004@outlook.com**
+<br />
 
-- 📄 Experiencias proffisionais [https://www.linkedin.com/in/joão-marcelo-1184a4249/](https://www.linkedin.com/in/joão-marcelo-1184a4249/)
+### 🛠️ Tecnologias e Ferramentas
 
-- ⚡ Fato engraçado **entrei no mundo da programação, porque gostava muito de games**
+**Front-end & Back-end:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="João-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="João-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="João-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="João-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="João-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="João-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="João-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joão marcelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão marcelo" height="30" width="40" /></a>
-<a href="https://instagram.com/@_joaomarcelloo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_joaomarcelloo" height="30" width="40" /></a>
-</p>
+**Outros & Infra:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="João-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="João-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="João-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaomarcelo1604&show_icons=true&locale=en&layout=compact" alt="joaomarcelo1604" /></p>
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<br />
+
+---
+<div align="center">
+  <p>💬 <strong>Pode me perguntar sobre:</strong> HTML, CSS, JavaScript, C, Redes, SQL e Excel</p>
+  <p>📄 <a href="https://www.linkedin.com/in/joão-marcelo-1184a4249/">Confira minhas experiências profissionais aqui</a></p>
+</div>
