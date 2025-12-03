@@ -22,9 +22,10 @@
 
 ### 🚀 Sobre Mim
 
-- 🔭 **Atualmente trabalhando em:** Projetos de Portfólio e Login.
-- 🌱 **Aprendendo:** React.js, Node.js, TypeScript e Java (Spring Boot).
-- 👯 **Procurando colaborar em:** Projetos Open Source e aplicações Web.
+- 🔭 **Atualmente trabalhando em:** Projetos de Ecommerce e Gerenciamento de Clínicas, desenvolvendo meu próprio Framework e diversas APIs.
+- ☕ **Domínio Avançado:** Java e Spring Boot (Back-end robusto).
+- 🌱 **O Intermediario:** Angular.js, Node.js e TypeScript.
+- 👯 **Procurando colaborar em:** Projetos Open Source e aplicações Web Java e outros Projetos.
 - ⚡ **Fato engraçado:** Entrei no mundo da programação porque gostava muito de games! 🎮
 
 <br />
