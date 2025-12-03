@@ -33,7 +33,7 @@
 <div align="center">
   <h3>🛠️ Linguagens e Ferramentas</h3>
 
-  <p>
+<p>
     <a href="https://www.java.com" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a>
@@ -43,10 +43,16 @@
     <a href="https://nodejs.org" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
     </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    <a href="https://www.docker.com/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
     </a>
-  </p>
+    <a href="https://kubernetes.io/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
+    </a>
+    <a href="https://www.redhat.com/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40"/> 
+    </a>
+</p>
   
   <p>
     <a href="https://angular.io/" target="_blank"> 
